@@ -3,7 +3,7 @@ End-to-end B2B CRM sales analysis project using SQL for data preparation and Pow
 
 # B2B CRM Sales Pipeline Visual Report
 
-<img width="1203" height="998" alt="image" src="https://github.com/user-attachments/assets/ce0e8eae-9e3e-4d53-abaa-ac305a9d7995" />
+<img width="1208" height="1002" alt="image" src="https://github.com/user-attachments/assets/ac1cdc85-457d-4763-8e21-af02d65a3b66" />
 
 ## Project Objective
 The goal of this project is to analyse a B2B sales pipeline dataset from a fictitious computer hardware company. By querying data with SQL and bringing it into Power BI, this project focuses on building clear, executive-ready visual reports to evaluate sales team performance and track product win rates.
